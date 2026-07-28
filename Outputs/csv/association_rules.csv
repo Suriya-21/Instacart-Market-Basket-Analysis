@@ -1,0 +1,15 @@
+,antecedents,consequents,support,confidence,lift
+13,Organic Raspberries,Organic Strawberries,0.0104,0.253,3.1251
+9,Organic Fuji Apple,Banana,0.0112,0.4013,2.6568
+2,Organic Raspberries,Bag of Organic Bananas,0.0122,0.2977,2.5733
+1,Organic Hass Avocado,Bag of Organic Bananas,0.0184,0.2868,2.4787
+4,Cucumber Kirby,Banana,0.0105,0.3437,2.2757
+7,Organic Avocado,Banana,0.0167,0.3033,2.008
+12,Strawberries,Banana,0.0136,0.3023,2.0013
+3,Organic Strawberries,Bag of Organic Bananas,0.0184,0.2269,1.9614
+0,Organic Baby Spinach,Bag of Organic Bananas,0.0154,0.2063,1.7829
+5,Large Lemon,Banana,0.0132,0.2681,1.7747
+11,Organic Whole Milk,Banana,0.0105,0.2378,1.5746
+6,Limes,Banana,0.0105,0.2352,1.5571
+8,Organic Baby Spinach,Banana,0.0162,0.2171,1.4375
+10,Organic Strawberries,Banana,0.017,0.2102,1.3918

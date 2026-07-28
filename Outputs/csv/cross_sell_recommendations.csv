@@ -1,0 +1,15 @@
+,Purchased_Product,Recommended_Product,Confidence,Lift,Support,Recommendation_Strength
+0,Organic Raspberries,Organic Strawberries,0.253,3.13,0.0104,Very Strong
+1,Organic Fuji Apple,Banana,0.4013,2.66,0.0112,Strong
+2,Organic Raspberries,Bag of Organic Bananas,0.2977,2.57,0.0122,Strong
+3,Organic Hass Avocado,Bag of Organic Bananas,0.2868,2.48,0.0184,Strong
+4,Cucumber Kirby,Banana,0.3437,2.28,0.0105,Strong
+5,Organic Avocado,Banana,0.3033,2.01,0.0167,Strong
+6,Strawberries,Banana,0.3023,2.0,0.0136,Strong
+7,Organic Strawberries,Bag of Organic Bananas,0.2269,1.96,0.0184,Moderate
+8,Organic Baby Spinach,Bag of Organic Bananas,0.2063,1.78,0.0154,Moderate
+9,Large Lemon,Banana,0.2681,1.77,0.0132,Moderate
+10,Organic Whole Milk,Banana,0.2378,1.57,0.0105,Moderate
+11,Limes,Banana,0.2352,1.56,0.0105,Moderate
+12,Organic Baby Spinach,Banana,0.2171,1.44,0.0162,Weak
+13,Organic Strawberries,Banana,0.2102,1.39,0.017,Weak

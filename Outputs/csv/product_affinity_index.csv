@@ -1,0 +1,14 @@
+,Product,Antecedent_Count,Consequent_Count,Total_Associations,Avg_Support,Avg_Confidence,Avg_Lift,Product_Affinity_Index,Business_Role
+0,Banana,0,9,9,0.0133,0.2799,1.85,0.5696,Primary Anchor
+1,Organic Fuji Apple,1,0,1,0.0112,0.4013,2.66,0.5023,Primary Anchor
+2,Organic Raspberries,2,0,2,0.0113,0.2754,2.85,0.4722,Primary Anchor
+3,Bag of Organic Bananas,0,4,4,0.0161,0.2544,2.2,0.4044,Secondary Anchor
+4,Organic Hass Avocado,1,0,1,0.0184,0.2868,2.48,0.3789,Secondary Anchor
+5,Cucumber Kirby,1,0,1,0.0105,0.3437,2.28,0.3339,Secondary Anchor
+6,Organic Strawberries,2,1,3,0.0153,0.23,2.16,0.3127,Secondary Anchor
+7,Organic Avocado,1,0,1,0.0167,0.3033,2.01,0.258,Supporting Product
+8,Strawberries,1,0,1,0.0136,0.3023,2.0,0.2355,Supporting Product
+9,Large Lemon,1,0,1,0.0132,0.2681,1.77,0.1355,Supporting Product
+10,Organic Baby Spinach,2,0,2,0.0158,0.2117,1.61,0.0979,Supporting Product
+11,Organic Whole Milk,1,0,1,0.0105,0.2378,1.57,0.0323,Supporting Product
+12,Limes,1,0,1,0.0105,0.2352,1.56,0.0248,Supporting Product

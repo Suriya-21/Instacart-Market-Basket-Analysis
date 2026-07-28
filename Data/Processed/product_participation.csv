@@ -1,0 +1,29 @@
+Product,Role,Related Product,support,confidence,lift
+Organic Raspberries,Antecedent,Organic Strawberries,0.0104,0.253,3.1251
+Organic Fuji Apple,Antecedent,Banana,0.0112,0.4013,2.6568
+Organic Raspberries,Antecedent,Bag of Organic Bananas,0.0122,0.2977,2.5733
+Organic Hass Avocado,Antecedent,Bag of Organic Bananas,0.0184,0.2868,2.4787
+Cucumber Kirby,Antecedent,Banana,0.0105,0.3437,2.2757
+Organic Avocado,Antecedent,Banana,0.0167,0.3033,2.008
+Strawberries,Antecedent,Banana,0.0136,0.3023,2.0013
+Organic Strawberries,Antecedent,Bag of Organic Bananas,0.0184,0.2269,1.9614
+Organic Baby Spinach,Antecedent,Bag of Organic Bananas,0.0154,0.2063,1.7829
+Large Lemon,Antecedent,Banana,0.0132,0.2681,1.7747
+Organic Whole Milk,Antecedent,Banana,0.0105,0.2378,1.5746
+Limes,Antecedent,Banana,0.0105,0.2352,1.5571
+Organic Baby Spinach,Antecedent,Banana,0.0162,0.2171,1.4375
+Organic Strawberries,Antecedent,Banana,0.017,0.2102,1.3918
+Organic Strawberries,Consequent,Organic Raspberries,0.0104,0.253,3.1251
+Banana,Consequent,Organic Fuji Apple,0.0112,0.4013,2.6568
+Bag of Organic Bananas,Consequent,Organic Raspberries,0.0122,0.2977,2.5733
+Bag of Organic Bananas,Consequent,Organic Hass Avocado,0.0184,0.2868,2.4787
+Banana,Consequent,Cucumber Kirby,0.0105,0.3437,2.2757
+Banana,Consequent,Organic Avocado,0.0167,0.3033,2.008
+Banana,Consequent,Strawberries,0.0136,0.3023,2.0013
+Bag of Organic Bananas,Consequent,Organic Strawberries,0.0184,0.2269,1.9614
+Bag of Organic Bananas,Consequent,Organic Baby Spinach,0.0154,0.2063,1.7829
+Banana,Consequent,Large Lemon,0.0132,0.2681,1.7747
+Banana,Consequent,Organic Whole Milk,0.0105,0.2378,1.5746
+Banana,Consequent,Limes,0.0105,0.2352,1.5571
+Banana,Consequent,Organic Baby Spinach,0.0162,0.2171,1.4375
+Banana,Consequent,Organic Strawberries,0.017,0.2102,1.3918

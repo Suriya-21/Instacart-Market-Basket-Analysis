@@ -1,0 +1,118 @@
+,support,itemsets,length
+0,0.0113,100% Raw Coconut Water,1
+1,0.0194,100% Whole Wheat Bread,1
+2,0.0118,2% Reduced Fat Milk,1
+3,0.0268,Apple Honeycrisp Organic,1
+4,0.0212,Asparagus,1
+5,0.1157,Bag of Organic Bananas,1
+6,0.151,Banana,1
+7,0.0117,Bartlett Pears,1
+8,0.0178,Blueberries,1
+9,0.0161,Boneless Skinless Chicken Breasts,1
+10,0.0133,Broccoli Crown,1
+11,0.0146,Bunched Cilantro,1
+12,0.0228,Carrots,1
+13,0.0128,"Clementines, Bag",1
+14,0.0304,Cucumber Kirby,1
+15,0.0145,Extra Virgin Olive Oil,1
+16,0.0211,Fresh Cauliflower,1
+17,0.0111,Garlic,1
+18,0.0116,Granny Smith Apples,1
+19,0.0124,Grape White/Green Seedless,1
+20,0.0142,Grated Parmesan,1
+21,0.0174,Green Bell Pepper,1
+22,0.0224,Half & Half,1
+23,0.016,Hass Avocados,1
+24,0.0248,Honeycrisp Apple,1
+25,0.0139,Jalapeno Peppers,1
+26,0.0121,Large Alfresco Eggs,1
+27,0.0492,Large Lemon,1
+28,0.0135,Lime Sparkling Water,1
+29,0.0446,Limes,1
+30,0.0216,Michigan Organic Kale,1
+31,0.0119,Orange Bell Pepper,1
+32,0.0549,Organic Avocado,1
+33,0.0218,Organic Baby Arugula,1
+34,0.024,Organic Baby Carrots,1
+35,0.0745,Organic Baby Spinach,1
+36,0.0114,Organic Bartlett Pear,1
+37,0.0117,Organic Black Beans,1
+38,0.0196,Organic Blackberries,1
+39,0.0306,Organic Blueberries,1
+40,0.0113,Organic Broccoli,1
+41,0.0107,Organic Carrot Bunch,1
+42,0.0216,Organic Cilantro,1
+43,0.0247,Organic Cucumber,1
+44,0.0153,Organic D'Anjou Pears,1
+45,0.028,Organic Fuji Apple,1
+46,0.0227,Organic Gala Apples,1
+47,0.0342,Organic Garlic,1
+48,0.0148,Organic Garnet Sweet Potato (Yam),1
+49,0.0161,Organic Ginger Root,1
+50,0.0131,Organic Grade A Free Range Large Brown Eggs,1
+51,0.0183,Organic Granny Smith Apple,1
+52,0.0256,Organic Grape Tomatoes,1
+53,0.0239,Organic Half & Half,1
+54,0.0643,Organic Hass Avocado,1
+55,0.0189,Organic Italian Parsley Bunch,1
+56,0.0148,Organic Kiwi,1
+57,0.0139,Organic Lacinato (Dinosaur) Kale,1
+58,0.0237,Organic Large Extra Fancy Fuji Apple,1
+59,0.0279,Organic Lemon,1
+60,0.0137,Organic Navel Orange,1
+61,0.017,Organic Peeled Whole Baby Carrots,1
+62,0.041,Organic Raspberries,1
+63,0.0178,Organic Red Bell Pepper,1
+64,0.0205,Organic Red Onion,1
+65,0.0147,Organic Reduced Fat 2% Milk,1
+66,0.0111,Organic Reduced Fat Milk,1
+67,0.0105,Organic Romaine Lettuce,1
+68,0.0205,Organic Small Bunch Celery,1
+69,0.0104,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,1
+70,0.0809,Organic Strawberries,1
+71,0.019,Organic Tomato Cluster,1
+72,0.0187,Organic Unsweetened Almond Milk,1
+73,0.044,Organic Whole Milk,1
+74,0.0185,Organic Whole String Cheese,1
+75,0.0358,Organic Yellow Onion,1
+76,0.0309,Organic Zucchini,1
+77,0.0214,Original Hummus,1
+78,0.0107,Pure Irish Butter,1
+79,0.0195,Raspberries,1
+80,0.0139,Red Onion,1
+81,0.0174,Red Peppers,1
+82,0.0166,Red Vine Tomato,1
+83,0.0123,Roma Tomato,1
+84,0.0269,Seedless Red Grapes,1
+85,0.011,Shredded Parmesan,1
+86,0.0149,Small Hass Avocado,1
+87,0.0109,Soda,1
+88,0.0109,Sparkling Lemon Water,1
+89,0.0135,Sparkling Natural Mineral Water,1
+90,0.0238,Sparkling Water Grapefruit,1
+91,0.0177,Spring Water,1
+92,0.0451,Strawberries,1
+93,0.0126,Uncured Genoa Salami,1
+94,0.011,Unsalted Butter,1
+95,0.0144,Unsweetened Almondmilk,1
+96,0.0104,Unsweetened Original Almond Breeze Almond Milk,1
+97,0.0107,Whole Milk,1
+98,0.0232,Yellow Onions,1
+99,0.0154,"Bag of Organic Bananas, Organic Baby Spinach",2
+100,0.0184,"Bag of Organic Bananas, Organic Hass Avocado",2
+101,0.0122,"Bag of Organic Bananas, Organic Raspberries",2
+102,0.0184,"Bag of Organic Bananas, Organic Strawberries",2
+103,0.0105,"Banana, Cucumber Kirby",2
+104,0.0132,"Banana, Large Lemon",2
+105,0.0105,"Banana, Limes",2
+106,0.0167,"Banana, Organic Avocado",2
+107,0.0162,"Banana, Organic Baby Spinach",2
+108,0.0112,"Banana, Organic Fuji Apple",2
+109,0.0103,"Banana, Organic Hass Avocado",2
+110,0.017,"Banana, Organic Strawberries",2
+111,0.0105,"Banana, Organic Whole Milk",2
+112,0.0136,"Banana, Strawberries",2
+113,0.0109,"Organic Baby Spinach, Organic Hass Avocado",2
+114,0.0117,"Organic Baby Spinach, Organic Strawberries",2
+115,0.0125,"Organic Hass Avocado, Organic Strawberries",2
+116,0.0104,"Organic Raspberries, Organic Strawberries",2

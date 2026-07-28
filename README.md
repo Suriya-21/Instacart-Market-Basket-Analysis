@@ -118,7 +118,7 @@ Business Insights & Recommendations
 
 ## 📈 Executive Overview
 
-![Executive Overview](Docs/Screenshots/Instacart_executive_overview.png)
+![Executive Overview](Docs/Screenshots/Instacart_exclusive_overview.png)
 
 ---
 
